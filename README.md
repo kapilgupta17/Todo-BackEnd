@@ -52,3 +52,9 @@ npx prisma db seed
 npm run dev
 ```
 The server will now be running on [http://localhost:3001](http://localhost:3001).
+
+### Technologies Used
+- Node.js
+- Express
+- Prisma ORM
+- MySQL
